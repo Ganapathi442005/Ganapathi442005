@@ -24,5 +24,4 @@
 
 ![Ganapathi442005's Stats](https://github-readme-stats.vercel.app/api?username=Ganapathi442005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Ganapathi442005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ganapathi442005&theme=vue-dark&hide_border=true)
 ![Ganapathi442005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganapathi442005&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
