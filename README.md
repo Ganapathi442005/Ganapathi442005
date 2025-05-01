@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Ganapathi
 
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
-- 🔭 Here's my [portfolio](https://ganapathi442005.github.io/portfolio/)                                                 
+- 🔭 Here's my [portfolio](https://68134acf937dfb61eb54f2c3--fantastic-queijadas-ae99cc.netlify.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Software Development.
 - 🤔 I’m looking for help with Placements in FAANG
